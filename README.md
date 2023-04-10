@@ -18,6 +18,6 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### In this notebook I have used different supervised and unsupervised machine learning algorithms like
 
-* 1) Linear Regression
+* 1 Linear Regression
 
 
