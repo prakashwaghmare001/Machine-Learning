@@ -1,5 +1,3 @@
 # Supervised and Unsupervised Machine learning Algorithms
 
-<picture>
-  <img src="file:///C:/Users/pc/Pictures/Saved%20Pictures/machinelearning.svg">
-</picture>
+![alt text](https://www.intellspot.com/wp-content/uploads/2018/03/Supervised-and-Unsupervised-Learning-featured-image.png)
